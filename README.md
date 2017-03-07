@@ -1,5 +1,8 @@
-# data-science-papers
-Data Science Papers
+# Data Science Papers
+
+**We need your contributions!**
+
+If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
